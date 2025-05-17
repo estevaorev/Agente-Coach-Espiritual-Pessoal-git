@@ -30,7 +30,7 @@ Nosso chatbot é ideal para pessoas que:
 Na sua versão inicial (MVP), o CoachAI Espiritual oferece as seguintes funcionalidades principais:
 
 * **Suporte Personalizado por Humor/Necessidade:** O usuário informa seu estado emocional ou necessidade (ex: tristeza, busca por inspiração, incerteza) e recebe uma mensagem espiritual/inspiracional direcionada.
-* **Base de Conteúdo Diversificada:** Acesso a uma variedade de versículos, citações, pequenos textos, parábolas e afirmações curadas para diferentes situações.
+* **Base de Conteúdo Diversificada:** ("Por enquanto usando IA generativa") Acesso a uma variedade de versículos, citações, pequenos textos, parábolas e afirmações curadas para diferentes situações.
 * **Opção de Nova Mensagem:** Permite que o usuário solicite uma mensagem diferente caso a primeira não ressoe com ele.
 * **(Potencialmente, dependendo da implementação inicial):** Capacidade de o usuário escolher a "personalidade" (ex: Amigo, Sábio) ou o "tom" (ex: Calmo, Encorajador) inicial do chatbot.
 
