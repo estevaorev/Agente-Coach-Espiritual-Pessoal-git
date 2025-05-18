@@ -36,6 +36,9 @@ Na sua versão inicial (MVP), o CoachAI Espiritual oferece as seguintes funciona
 * **Opção de Nova Mensagem:** Permite que o usuário solicite uma mensagem diferente caso a primeira não ressoe com ele.
 * **(Potencialmente, dependendo da implementação inicial):** Capacidade de o usuário escolher a "personalidade" (ex: Amigo, Sábio) ou o "tom" (ex: Calmo, Encorajador) inicial do chatbot.
 
+  ![image](https://github.com/user-attachments/assets/e6f28eef-e10c-4eef-8bbb-87da89e7bf59)
+
+
 *Funcionalidades futuras como acompanhamento de humor, envio proativo de mensagens e sugestões de hábitos estão planejadas para versões posteriores.*
 
 ## Como Funciona (Visão Geral Técnica Preliminar)
