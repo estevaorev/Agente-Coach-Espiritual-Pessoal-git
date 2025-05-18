@@ -4,6 +4,8 @@ Imersão IA Alura + Google Gemini - Agente Coach Espiritual Pessoal
 
 # CoachAI Espiritual
 
+![LogoCoachIA_Espiritual_v2](https://github.com/user-attachments/assets/5fe2a306-75d2-4d2a-a63c-43f530d830f2)
+
 
 
 ## Sobre o Projeto
